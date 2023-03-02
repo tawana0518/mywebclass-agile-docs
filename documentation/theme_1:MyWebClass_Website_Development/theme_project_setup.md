@@ -13,4 +13,21 @@ us up for long-term success.
   * Project metrics to continuously improve the management of the project
 
 ## Test plan
-<!--create a test plan for this theme>
+
+Test Strategy:
+A combination of manual and automated testing techniques will be used to test the initiatives, including functional 
+testing, performance testing, and usability testing. Testing will be integrated into the software development life cycle (SDLC).
+
+Test Objectives:
+
+Verify that the initiatives meet our business requirements.
+Ensure the initiatives are completed on time and within budget.
+Validate that the lean and agile principles are being applied effectively.
+Identify and report defects and issues to the development team for resolution.
+
+Test Activities:
+
+Review and analyze requirements and user stories.
+Develop and execute test cases and scripts.
+Perform performance and usability testing.
+
