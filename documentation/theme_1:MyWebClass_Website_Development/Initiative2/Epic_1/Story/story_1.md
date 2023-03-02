@@ -10,6 +10,6 @@ The build process must be able to detect and report any errors or failures.
 The deployment process must be able to detect and report any errors or failures.
 The build process should be able to run in a timely manner, ideally completing within a few minutes.
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
-<!--list the tasks related to this user story>
+# List Tasks related to this theme
+1. Find a Suitable CI/CD tool
+2. Set up a Build Pipeline
