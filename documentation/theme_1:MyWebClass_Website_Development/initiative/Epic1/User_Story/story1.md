@@ -12,7 +12,6 @@ The website provides a clear and concise explanation of how users' personal data
 
 
 # List Tasks related to this theme
-1. [Tasks 1](documentation/templates/theme/initiatives/epics/stories/tasks/template.md)
-2. [Tasks 2](documentation/templates/theme/initiatives/epics/stories/tasks/template.md)
-3. [Tasks 3](documentation/templates/theme/initiatives/epics/stories/tasks/template.md)
-<!--add tasks to this list as well as update the path>
+1. Identify Relevant Laws and Regulations
+2. Consult with Legal Experts
+3. Conduct Website Content Audit
