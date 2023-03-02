@@ -15,3 +15,4 @@ The website provides a clear and concise explanation of how users' personal data
 1. [Tasks 1](documentation/templates/theme/initiatives/epics/stories/tasks/template.md)
 2. [Tasks 2](documentation/templates/theme/initiatives/epics/stories/tasks/template.md)
 3. [Tasks 3](documentation/templates/theme/initiatives/epics/stories/tasks/template.md)
+<!--add tasks to this list as well as update the path>
