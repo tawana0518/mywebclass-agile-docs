@@ -4,9 +4,9 @@ Our goal is to quickly and effectively establish a strong foundation for our web
 utilizing lean and agile principles. By executing the initiatives defined in this theme, we can establish a solid foundation 
 that meets our business requirements and ensures the longevity and success of our web page: MyWebClass.
 ## Initiative(s)
-* [Web Compliance and Analytics Initiative: Building a Legally Compliant, User-Friendly, and Optimized Website]()
-* [Automating and Streamlining MyWebClass Development with DevOps Practices]()
-* [Creation of MyWebClass.org's Website Build on Agile and Lean Principles]()
+* [Web Compliance and Analytics Initiative: Building a Legally Compliant, User-Friendly, and Optimized Website](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/initiative_legal_and_analytics.md)
+* [Automating and Streamlining MyWebClass Development with DevOps Practices](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/Initiative2/initiative_devops.md)
+* [Creation of MyWebClass.org's Website Build on Agile and Lean Principles](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative3/initiative_agile_lean_web_development.md)
 
 
 
