@@ -70,3 +70,14 @@ and free from errors or bugs.
 
 # List epics related to this theme
 1.  [Develop a Responsive and User-Friendly Webpage for MyWebClass.org](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative3/Epic/epic3.md)
+
+
+## Test Plan
+1. Purpose: Ensure quality and functionality of MyWebClass.org website built on Agile and Lean principles.
+2. Scope: Key features, functionality, and user experience, including navigation, registration, course creation and management, payment gateway integration, user profile management, course search and recommendation, security and performance.
+3. Approach: Agile and Lean principles, continuous testing and feedback, iterative testing throughout development process, frequent regression testing.
+4. Environment: Controlled environment, manual and automated testing, multiple browsers and devices.
+5. est Cases: Developed based on user stories and acceptance criteria, covering positive and negative scenarios, edge cases and stress testing.
+6. Execution: Unit testing, integration testing, functional testing, user acceptance testing.
+7. Reporting: Test report documenting test cases, results, and issues identified, shared with development team and stakeholders.
+8. Closure: Testing considered complete once test cases executed and defects resolved, test closure report prepared documenting testing process, results, and lessons learned.
