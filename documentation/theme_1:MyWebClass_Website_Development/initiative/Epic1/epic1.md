@@ -1,4 +1,4 @@
-"Legal Compliance for the Website"
+"Legal Compliance for MyWebClass"
 
 Description: As the digital landscape continues to evolve, it is more important than ever to ensure legal compliance 
 when developing a website. Failure to do so can result in legal penalties, damage to reputation, and loss of customers.
@@ -41,4 +41,9 @@ Business Value: Legal protection, reputation management, and improved customer e
 Priority: High Priority
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. As a website owner, I want to ensure legal compliance for my webpage so that I can avoid legal
+issues and protect my business.
+2. "As a website user, I want to know that my personal data is protected when I use a website, so I expect the website 
+to have a clear and concise privacy policy that explains how my data will be collected, used, and shared. 
+3. As a website developer, I want to ensure that the website I build are legally compliant to avoid any legal
+issues for my client.

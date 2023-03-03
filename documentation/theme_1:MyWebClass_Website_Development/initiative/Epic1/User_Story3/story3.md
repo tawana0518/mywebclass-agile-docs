@@ -13,4 +13,6 @@ remain legally compliant.
 
 
 # List Tasks related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. Research Legal Requirements
+2. Develop a Compliance Checklist
+3. Review and Update Website Content

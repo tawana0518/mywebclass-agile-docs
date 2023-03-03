@@ -10,4 +10,5 @@ users to track their behavior in compliance with data protection regulations suc
 The website developer stays up-to-date with the latest developments in Google Analytics and implements any new features.
 
 # List Tasks related to this theme
-1. [Task 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. Create a Google Analytics Account
+2. Set up Goals and Conversations

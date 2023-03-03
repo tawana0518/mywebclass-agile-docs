@@ -12,4 +12,6 @@ collection.
 
 
 # List Tasks related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. Incorporate a Privacy Notice
+2. Check the Privacy Policy
+2. Implement Data Protection Measures

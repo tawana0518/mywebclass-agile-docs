@@ -9,4 +9,4 @@ All changes to application server configurations are made through the IaC code a
 The IaC code is tested and validated before deploying changes to production.
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. Set up Monitoring and Alerting for Applications and Infrastructure

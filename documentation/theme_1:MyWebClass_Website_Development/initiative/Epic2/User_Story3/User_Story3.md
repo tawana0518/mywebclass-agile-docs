@@ -13,4 +13,5 @@ to do so.
 
 
 # List Tasks related to this theme
-1. [Task 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. Configure Personalization Features
+2. Set up Goal Tracking

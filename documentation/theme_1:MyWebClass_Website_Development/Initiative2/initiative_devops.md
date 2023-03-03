@@ -73,10 +73,15 @@ and quality standards.
     
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
-## Epics
-* [Automated testing to catch issues early on and adapt to changing requirements
-* [Automated deployment of the current development branch to team members local environments to facilitate manual review
+1. Implement Continuous Integration and Continuous Deployment (CI/CD)
+2. Adopt Infrastructure as Code (IaC)
 
 ## Test Plan
-How will these be tested?
+1. Review DevOps practices and requirements.
+2. Identify areas of the development process that can be automated and streamlined.
+3. Develop and implement a DevOps strategy that automates and streamlines the identified areas of the development process.
+4. Develop and execute test cases for the automated and streamlined areas of the development process.
+5. Perform regression testing to ensure that the automated and streamlined processes do not introduce new issues.
+6. Verify that the DevOps practices and processes are meeting the established requirements.
+7. Report any defects or issues to the development team for resolution.
+8. Ensure the DevOps practices and processes are providing the desired results, such as faster delivery, improved quality, and better collaboration.

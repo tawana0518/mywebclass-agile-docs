@@ -1,15 +1,19 @@
-Task Title: [Short, descriptive title for the task]
+Task Title:  Add a new article to the "Articles" page
 
-User Story: [Reference the user story that this task supports]
+User Story: As a website administrator, I want to be able to easily update and manage the content on the MyWebClass.org
+webpage so that I can ensure that the information provided to users is up-to-date and accurate.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: Create a new article and add it to the existing "Articles" page on MyWebClass.org. The new article should be 
+relevant to web development and provide useful information to users. 
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 2 hours 
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: Content writer and  web developer
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: High priority 
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: Not started
 
-Notes: [Include]
+Notes: You will need to write the article, format it correctly with headings and paragraphs, and ensure that any images
+or videos included in the article are optimized for web display. Once the article is ready, you will need to upload it 
+to the website and add a link to it in the "Articles" page navigation menu.

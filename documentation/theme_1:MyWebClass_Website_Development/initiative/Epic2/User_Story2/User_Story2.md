@@ -15,4 +15,5 @@ button clicks.
 
 
 # List Tasks related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. Set up Custom Alerts
+2. Grant Access to Google Analytics

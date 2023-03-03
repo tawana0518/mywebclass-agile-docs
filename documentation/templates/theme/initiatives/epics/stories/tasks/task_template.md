@@ -1,4 +1,4 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Update the navigation links on the MyWebClass.org webpage to include a "Services" 
 
 User Story: [Reference the user story that this task supports]
 

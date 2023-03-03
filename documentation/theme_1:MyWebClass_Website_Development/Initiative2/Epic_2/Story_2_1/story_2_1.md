@@ -11,4 +11,5 @@ Changes to the infrastructure are made only through the IaC code, and not throug
 The IaC code includes documentation for the infrastructure and its configuration.
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. Choose and Set up an IaC tool for AWS infrastructure
+2. Automate infrastructure provisioning and configuration using IaC
