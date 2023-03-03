@@ -12,6 +12,6 @@ collection.
 
 
 # List Tasks related to this theme
-1. Incorporate a Privacy Notice
-2. Check the Privacy Policy
-2. Implement Data Protection Measures
+1. [Incorporate a Privacy Notice](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story2/Tasks/task_2.md)
+2. [Check the Privacy Policy](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story2/Tasks/task_1.md)
+2. [Implement Data Protection Measures](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story2/Tasks/task_3.md)
