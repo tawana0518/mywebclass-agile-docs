@@ -77,8 +77,8 @@ efforts, and reporting on website performance.
 compliance and user experience standards.
 
 ## Epics
-* Legal Compliance for MyWebClass
-* Tracking User Behavior through Google Analytics
+* [Legal Compliance for MyWebClass](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/epic1.md)
+* [Tracking User Behavior through Google Analytics](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic2/epic2.md)
 
 ## Test plan
 1. Review legal compliance requirements.
