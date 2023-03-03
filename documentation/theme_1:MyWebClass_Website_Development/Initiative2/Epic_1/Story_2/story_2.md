@@ -12,4 +12,6 @@ test cases.
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. Set up Automated Testing with a CI/CD tool
+2. Implement Continuous Testing in the CI/CD pipeline
+3. 

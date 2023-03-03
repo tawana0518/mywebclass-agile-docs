@@ -47,4 +47,7 @@ Business Value:
 Priority: High Priority
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. As a DevOps engineer, I want to use infrastructure as code (IaC) to provision and configure our AWS infrastructure
+so that we can reduce manual effort, increase consistency, and easily replicate environments.
+2. As a developer, I want to use IaC to manage the configuration of our application servers so that we can quickly
+deploy and update our applications in a consistent and repeatable manner.

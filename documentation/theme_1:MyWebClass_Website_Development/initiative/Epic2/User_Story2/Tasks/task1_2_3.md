@@ -1,4 +1,4 @@
-Task Title: [Set up Custom Alerts
+Task Title: Set up Custom Alerts
 
 User Story: As a website owner, I want to use Google Analytics to track user behavior  so that I can understand how 
 users are engaging with my content and make improvement.

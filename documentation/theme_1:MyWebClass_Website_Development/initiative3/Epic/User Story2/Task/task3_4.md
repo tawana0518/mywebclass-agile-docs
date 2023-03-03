@@ -1,15 +1,19 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Update the "Install Instructions" page with the latest version of software
 
-User Story: [Reference the user story that this task supports]
+User Story: As a website administrator, I want to be able to easily update and manage the content on the MyWebClass.org 
+webpage so that I can ensure that the information provided to users is up-to-date and accurate.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: update the "Install Instructions" page on MyWebClass.org with the latest version of the software that is used 
+for web development. You will need to research the latest version of the software, update the installation instructions 
+accordingly, and make any necessary changes to screenshots or other visual aids. 
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 3 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: Front and Back End Developer 
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: Not started
 
-Notes: [Include]
+Notes: It is important to ensure that the instructions are accurate and up-to-date so that users can successfully install 
+and use the software. Once the page is updated, you will need to test the instructions to ensure that they are working correctly.

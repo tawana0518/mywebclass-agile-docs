@@ -77,9 +77,18 @@ efforts, and reporting on website performance.
 compliance and user experience standards.
 
 ## Epics
-* [Epic 1](../../theme_1:MyWebClass_Website_Development/initiative/epic1/epic1.md)
-* [Epic 2](../../theme_1:MyWebClass_Website_Development/initiative/epic2/epic2.md)
+* Legal Compliance for MyWebClass
+* Tracking User Behavior through Google Analytics
 
 ## Test plan
-How will this be tested?
+1. Review legal compliance requirements.
+2. Develop and execute test cases and scripts for legal compliance.
+3. Perform usability testing to ensure user-friendliness.
+4. Conduct performance testing for optimization.
+5. Report defects and issues to the development team.
+6. Verify fixes for reported issues.
+7. Perform regression testing to ensure fixes don't cause new issues.
+8. Ensure legal compliance requirements are met.
+9. Ensure website is user-friendly and easy to navigate.
+10. Ensure website is optimized for performance.
 

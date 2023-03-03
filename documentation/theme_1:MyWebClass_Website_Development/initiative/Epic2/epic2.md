@@ -49,4 +49,9 @@ Business Value:
 Priority: High Priority 
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. As a website developer, I want to integrate Google Analytics into my website so that I can understand and track
+user site behavior
+2. As a website owner, I want to use Google Analytics to track user behavior  so that I can understand how 
+users are engaging with my content and make improvement.
+3. As a website user, I want the website to use Google Analytics to track my behavior so that I can receive a 
+personalized and seamless browsing experience.
