@@ -13,5 +13,5 @@ to do so.
 
 
 # List Tasks related to this theme
-1. Configure Personalization Features
-2. Set up Goal Tracking
+1. [Configure Personalization Features](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic2/User_Story3/Tasks/task1_2_5.md)
+2. [Set up Goal Tracking](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic2/User_Story3/Tasks/task1_2_6.md)
