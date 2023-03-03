@@ -12,6 +12,6 @@ The website provides a clear and concise explanation of how users' personal data
 
 
 # List Tasks related to this theme
-1. Identify Relevant Laws and Regulations
-2. Consult with Legal Experts
-3. Conduct Website Content Audit
+1. [Identify Relevant Laws and Regulations](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story/Tasks/task.md)
+2. [Consult with Legal Experts](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story/Tasks/task2.md)
+3. [Conduct Website Content Audit](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story/Tasks/task3.md)
