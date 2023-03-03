@@ -73,8 +73,8 @@ and quality standards.
     
 
 # List epics related to this theme
-1. Implement Continuous Integration and Continuous Deployment (CI/CD)
-2. Adopt Infrastructure as Code (IaC)
+1. [Implement Continuous Integration and Continuous Deployment (CI/CD)](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/Initiative2/Epic_1/epic_1.md)
+2. [Adopt Infrastructure as Code (IaC)](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/Initiative2/Epic_2/epic_2.md)
 
 ## Test Plan
 1. Review DevOps practices and requirements.
