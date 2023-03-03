@@ -11,7 +11,6 @@ The CI/CD tool should be integrated with the issue tracking system to automatica
 test cases.
 
 
-# List Stories related to this theme
-1. Set up Automated Testing with a CI/CD tool
-2. Implement Continuous Testing in the CI/CD pipeline
-3. 
+# List tasks related to this theme
+1. [Set up Automated Testing with a CI/CD tool](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/Initiative2/Epic_1/Story_2/Task_2/task_2_1.md)
+2. [Implement Continuous Testing in the CI/CD pipeline](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/Initiative2/Epic_1/Story_2/Task_2/task_2_2.md)
