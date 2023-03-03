@@ -130,7 +130,8 @@ your needs, it can be adjusted, given that we are still in the early stages of t
 
 At this juncture, the efficacy of the documentation is measured by how well it enables us to manage the project. We will
 review this effectiveness before the next iteration of the project.
-Project Set Up
+
+## Project Set Up
 
 [Project Plan](https://github.com/tawana0518/mywebclass-agile-docs/tree/main/documentation/theme_1:MyWebClass_Website_Development)
 
