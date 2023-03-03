@@ -13,5 +13,5 @@ The CMS includes version control and rollback features that allow administrators
 content if necessary.
 
 # List tasks related to this theme
-1. [Add a new article to the "Articles" page]
-2. [Update the "Install Instructions" page with the latest version of software]
+1. [Add a new article to the "Articles" page](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative3/Epic/User%20Story2/Task/task3_3.md)
+2. [Update the "Install Instructions" page with the latest version of software](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative3/Epic/User%20Story2/Task/task3_4.md)
