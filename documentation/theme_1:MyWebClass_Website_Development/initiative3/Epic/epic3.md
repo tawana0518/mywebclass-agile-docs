@@ -37,6 +37,6 @@ Business Value:
 Priority: High
 
 # List stories related to this theme
-1. [As a website visitor, I want to be able to easily navigate the MyWebClass.org webpage so that I can quickly find information about the organization's services and programs.]
+1. [As a website visitor, I want to be able to easily navigate the MyWebClass.org webpage so that I can quickly find information about the organization's services and programs.](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative3/Epic/User%20Story/userstory3.md)
 2. [As a website administrator, I want to be able to easily update and manage the content on the MyWebClass.org webpage so
-that I can ensure that the information provided to users is up-to-date and accurate.]
+that I can ensure that the information provided to users is up-to-date and accurate.](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative3/Epic/User%20Story2/userstory3_1.md)
