@@ -69,4 +69,4 @@ user-friendly, and responsive.
 and free from errors or bugs.
 
 # List epics related to this theme
-1.  Develop a Responsive and User-Friendly Webpage for MyWebClass.org
+1.  [Develop a Responsive and User-Friendly Webpage for MyWebClass.org](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative3/Epic/epic3.md)
