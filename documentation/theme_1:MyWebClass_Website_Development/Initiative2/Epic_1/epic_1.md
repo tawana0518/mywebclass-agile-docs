@@ -46,7 +46,7 @@ Business Value:
 Priority: High Priority
 
 # List stories related to this theme
-1. As a developer, I want to automate the build process using CI/CD tools so that I can ensure a consistent and 
-reliable build process, reducing the risk of errors and increasing efficiency.
-2. As a QA engineer, I want to automate the testing process using CI/CD tools so that I can ensure a consistent and 
-reliable testing process, reducing the risk of errors and increasing efficiency.
+1. [As a developer, I want to automate the build process using CI/CD tools so that I can ensure a consistent and 
+reliable build process, reducing the risk of errors and increasing efficiency.](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/Initiative2/Epic_1/Story/story_1.md)
+2. [As a QA engineer, I want to automate the testing process using CI/CD tools so that I can ensure a consistent and 
+reliable testing process, reducing the risk of errors and increasing efficiency.](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/Initiative2/Epic_1/Story_2/story_2.md)
