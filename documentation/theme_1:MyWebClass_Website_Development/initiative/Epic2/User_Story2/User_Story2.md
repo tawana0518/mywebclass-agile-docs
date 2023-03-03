@@ -16,4 +16,4 @@ button clicks.
 
 # List Tasks related to this theme
 1. [Set up Custom Alerts](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic2/User_Story2/Tasks/task1_2_3.md)
-2. [Grant Access to Google(https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic2/User_Story2/Tasks/task1_2_4.md)
+2. [Grant Access to Google Analytics](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic2/User_Story2/Tasks/task1_2_4.md)
