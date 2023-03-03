@@ -132,11 +132,11 @@ At this juncture, the efficacy of the documentation is measured by how well it e
 review this effectiveness before the next iteration of the project.
 # Your  plan should replace the content below
 
-[Project Setup](documentation/theme: MyWebClass website Development/theme_project_setup.md)
+[Project Plan](documentation/theme: https://github.com/tawana0518/mywebclass-agile-docs/tree/main/documentation/theme_1:MyWebClass_Website_Development)
 
 ## Release Schedule
 
 | Release Version | Release Date | Features |
 |-----------------|--------------|----------|
-| 0.1.x           | TBD          | TBD      |
+| 0.1.0           | May 05 2023  | Webpage  |
 
