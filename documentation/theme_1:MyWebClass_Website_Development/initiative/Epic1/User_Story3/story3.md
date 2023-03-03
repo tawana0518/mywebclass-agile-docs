@@ -13,6 +13,6 @@ remain legally compliant.
 
 
 # List Tasks related to this theme
-1. Research Legal Requirements
-2. Develop a Compliance Checklist
-3. Review and Update Website Content
+1. [Research Legal Requirements](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story3/Tasks/task_4.md)
+2. [Develop a Compliance Checklist](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story3/Tasks/task_5.md)
+3. [Review and Update Website Content](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story3/Tasks/task_6.md)
