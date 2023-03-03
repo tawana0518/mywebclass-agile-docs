@@ -41,9 +41,9 @@ Business Value: Legal protection, reputation management, and improved customer e
 Priority: High Priority
 
 # List stories related to this theme
-1. As a website owner, I want to ensure legal compliance for my webpage so that I can avoid legal
-issues and protect my business.
-2. "As a website user, I want to know that my personal data is protected when I use a website, so I expect the website 
-to have a clear and concise privacy policy that explains how my data will be collected, used, and shared. 
-3. As a website developer, I want to ensure that the website I build are legally compliant to avoid any legal
-issues for my client.
+1. [As a website owner, I want to ensure legal compliance for my webpage so that I can avoid legal
+issues and protect my business.](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story/story1.md)
+2. [As a website user, I want to know that my personal data is protected when I use a website, so I expect the website 
+to have a clear and concise privacy policy that explains how my data will be collected, used, and shared. ](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story2/story2.md)
+3. [As a website developer, I want to ensure that the website I build are legally compliant to avoid any legal
+issues for my client.](https://github.com/tawana0518/mywebclass-agile-docs/blob/main/documentation/theme_1:MyWebClass_Website_Development/initiative/Epic1/User_Story3/story3.md)
